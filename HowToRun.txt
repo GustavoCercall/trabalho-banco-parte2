@@ -1,0 +1,14 @@
+Para poder compilar o código:
+
+1º - Acesse o site do Atlas MongoDB, crie uma conta e entre na mesma.
+
+2º - Crie um database com nome "Trabalhobancoparte2" com a senha "123".
+
+3º - Baixe o source presente no repositório do GitHub, e verifique se o download do "pom.xml"
+foi feito junto, pois nele contem o maven necessário para conexão com o Banco.
+
+4º - Coloque o código em uma IDE de sua prefêrencia (eu utilizei o IntelliJ, da JetBrains), 
+vá na pasta "apresentação", busque por "tela principal" e rode a mesma.
+
+5º - Ao acessar o projeto, vai encontrar  uma tela de Login e Cadastro, cadastre um usuário para si
+e poderá fazer o CRUD de todas as funcionalidades, exceto da funcionalidade "playlist" e seus relacionamentos.
